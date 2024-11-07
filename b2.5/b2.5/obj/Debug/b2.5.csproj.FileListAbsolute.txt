@@ -1,0 +1,7 @@
+C:\Users\706\Desktop\THc\b2.5\b2.5\bin\Debug\b2.5.exe.config
+C:\Users\706\Desktop\THc\b2.5\b2.5\bin\Debug\b2.5.exe
+C:\Users\706\Desktop\THc\b2.5\b2.5\bin\Debug\b2.5.pdb
+C:\Users\706\Desktop\THc\b2.5\b2.5\obj\Debug\b2.5.csproj.AssemblyReference.cache
+C:\Users\706\Desktop\THc\b2.5\b2.5\obj\Debug\b2.5.csproj.CoreCompileInputs.cache
+C:\Users\706\Desktop\THc\b2.5\b2.5\obj\Debug\b2.5.exe
+C:\Users\706\Desktop\THc\b2.5\b2.5\obj\Debug\b2.5.pdb
