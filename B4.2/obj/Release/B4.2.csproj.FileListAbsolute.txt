@@ -1,0 +1,11 @@
+E:\Dev\C#\WindowsForm\B4.2\bin\Release\Resources\qr-ng.jpg
+E:\Dev\C#\WindowsForm\B4.2\bin\Release\B4.2.exe.config
+E:\Dev\C#\WindowsForm\B4.2\bin\Release\B4.2.exe
+E:\Dev\C#\WindowsForm\B4.2\bin\Release\B4.2.pdb
+E:\Dev\C#\WindowsForm\B4.2\obj\Release\B4.2.csproj.AssemblyReference.cache
+E:\Dev\C#\WindowsForm\B4.2\obj\Release\B4._2.frMangGoc.resources
+E:\Dev\C#\WindowsForm\B4.2\obj\Release\B4._2.Properties.Resources.resources
+E:\Dev\C#\WindowsForm\B4.2\obj\Release\B4.2.csproj.GenerateResource.cache
+E:\Dev\C#\WindowsForm\B4.2\obj\Release\B4.2.csproj.CoreCompileInputs.cache
+E:\Dev\C#\WindowsForm\B4.2\obj\Release\B4.2.exe
+E:\Dev\C#\WindowsForm\B4.2\obj\Release\B4.2.pdb
