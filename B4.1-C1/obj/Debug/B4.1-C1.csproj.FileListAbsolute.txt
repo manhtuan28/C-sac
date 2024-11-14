@@ -1,0 +1,7 @@
+E:\Dev\C#\Console\B4.1-C1\bin\Debug\B4.1-C1.exe.config
+E:\Dev\C#\Console\B4.1-C1\bin\Debug\B4.1-C1.exe
+E:\Dev\C#\Console\B4.1-C1\bin\Debug\B4.1-C1.pdb
+E:\Dev\C#\Console\B4.1-C1\obj\Debug\B4.1-C1.csproj.AssemblyReference.cache
+E:\Dev\C#\Console\B4.1-C1\obj\Debug\B4.1-C1.csproj.CoreCompileInputs.cache
+E:\Dev\C#\Console\B4.1-C1\obj\Debug\B4.1-C1.exe
+E:\Dev\C#\Console\B4.1-C1\obj\Debug\B4.1-C1.pdb
